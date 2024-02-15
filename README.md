@@ -4,7 +4,8 @@ Terima uang setiap Minggunya Follow and share YouTube subscribe like
 title: Content design principles
 shortTitle: Content design principles
 intro: 'We share these principles to design and create the best content for people who use {% data variables.product.prodname_dotcom %}.'
-product: '{% data reusables.contributing.product-note %}'
+product:  crossorigin="anonymous"></script>"
+https://www.google.com/adsense/new/u/0/pub-3836741691155881/sites/detail/url=coral-pufferfish-ebpf.squarespace.com#:~:text=%3Cscript%20async%20src%3D%22https%3A//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%3Fclient%3Dca%2Dpub%2D3836741691155881%22%0A%20%20%20%20%20crossorigin%3D%22anonymous%22%3E%3C/script%3E
 versions:
   feature: 'contributing'
 ---
